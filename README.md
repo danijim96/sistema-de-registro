@@ -1,3 +1,8 @@
 <h1> Sistema de registro</h1>
 
--Estado del proyecto: En construcccion
+-Estado del proyecto: En construcccion.
+
+para ejecutar el sistema, debes poner:
+
+```npm install react```
+
